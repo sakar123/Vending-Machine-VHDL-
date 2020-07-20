@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="vmachine_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="vmachine_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="4426667fs"></ZoomStartTime>
+      <ZoomEndTime time="5426667fs"></ZoomEndTime>
+      <Cursor1Time time="5260000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/vmachine_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/Quarter" type="logic">
+      <obj_property name="ElementShortName">Quarter</obj_property>
+      <obj_property name="ObjectShortName">Quarter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/Dollar" type="logic">
+      <obj_property name="ElementShortName">Dollar</obj_property>
+      <obj_property name="ObjectShortName">Dollar</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/Five" type="logic">
+      <obj_property name="ElementShortName">Five</obj_property>
+      <obj_property name="ObjectShortName">Five</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/Prod_A" type="logic">
+      <obj_property name="ElementShortName">Prod_A</obj_property>
+      <obj_property name="ObjectShortName">Prod_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/Prod_B" type="logic">
+      <obj_property name="ElementShortName">Prod_B</obj_property>
+      <obj_property name="ObjectShortName">Prod_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/Prod_C" type="logic">
+      <obj_property name="ElementShortName">Prod_C</obj_property>
+      <obj_property name="ObjectShortName">Prod_C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/Cancel" type="logic">
+      <obj_property name="ElementShortName">Cancel</obj_property>
+      <obj_property name="ObjectShortName">Cancel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/disp_acc" type="array">
+      <obj_property name="ElementShortName">disp_acc[7:0]</obj_property>
+      <obj_property name="ObjectShortName">disp_acc[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/disp_chng" type="array">
+      <obj_property name="ElementShortName">disp_chng[7:0]</obj_property>
+      <obj_property name="ObjectShortName">disp_chng[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/disp_ProdA" type="logic">
+      <obj_property name="ElementShortName">disp_ProdA</obj_property>
+      <obj_property name="ObjectShortName">disp_ProdA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/disp_ProdB" type="logic">
+      <obj_property name="ElementShortName">disp_ProdB</obj_property>
+      <obj_property name="ObjectShortName">disp_ProdB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/disp_ProdC" type="logic">
+      <obj_property name="ElementShortName">disp_ProdC</obj_property>
+      <obj_property name="ObjectShortName">disp_ProdC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/disp_Error_Nomoney" type="logic">
+      <obj_property name="ElementShortName">disp_Error_Nomoney</obj_property>
+      <obj_property name="ObjectShortName">disp_Error_Nomoney</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/disp_Error_NoProduct" type="logic">
+      <obj_property name="ElementShortName">disp_Error_NoProduct</obj_property>
+      <obj_property name="ObjectShortName">disp_Error_NoProduct</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/stop_the_clock" type="other">
+      <obj_property name="ElementShortName">stop_the_clock</obj_property>
+      <obj_property name="ObjectShortName">stop_the_clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vmachine_tb/clock_period" type="other">
+      <obj_property name="ElementShortName">clock_period</obj_property>
+      <obj_property name="ObjectShortName">clock_period</obj_property>
+   </wvobject>
+</wave_config>
